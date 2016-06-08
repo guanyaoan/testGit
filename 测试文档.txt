@@ -1,3 +1,5 @@
 今天是2016年6月8号，明天就是端午节了。
 
 abcasdasdadasuga aui ba
+
+修复了一个bug
